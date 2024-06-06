@@ -31,7 +31,7 @@ Welcome to the repository for the Online Food Ordering Website. This project is 
 ### Manual Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/online-food-ordering.git
+    git clone https://github.com/harsi15/Foody.git
     ```
 
 2. Navigate into the project directory:
